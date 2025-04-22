@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nombre": "Cuenta Corriente Digital",
+    "tipo": "Cuenta",
+    "categoria": "Cuenta",
+    "tasaInteres": null,
+    "riesgo": null
+  },
+  {
+    "id": "2",
+    "nombre": "Tarjeta de Crédito Oro",
+    "tipo": "Tarjeta",
+    "categoria": "Tarjeta",
+    "tasaInteres": "25%",
+    "riesgo": "Medio"
+  },
+  {
+    "id": "3",
+    "nombre": "Fondo de Inversión Conservador",
+    "tipo": "Fondo",
+    "categoria": "Fondo",
+    "tasaInteres": "4%",
+    "riesgo": "Bajo"
+  }
+]
